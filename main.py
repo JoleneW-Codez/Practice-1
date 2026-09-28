@@ -4,3 +4,6 @@
 # that many times. The steps are in README.md.
 #
 # Write your code below this comment.
+times = int(input("Please enter a number: "))
+phrase = input("Please enter a phrase: ")
+print(phrase * times)
